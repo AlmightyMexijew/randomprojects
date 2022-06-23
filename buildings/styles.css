@@ -1,0 +1,9 @@
+* {border:1px solid black;
+box-sizing:border-box;}
+
+.building{
+    background-color:blue;
+}
+.container {
+    background-color: black;
+}
